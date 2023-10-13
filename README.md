@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🧑‍💻  [**Udipta Anupam**](www.linkedin.com/in/udipta-anupam)<br>🥇  B.Sc in **Information Technology & Management** | Utkal University 2016-19<br>🎯  Goal-oriented<br>🤓  Optimistic<br>🧫  Lazy but Smart<br>🤝 
- Glad to connect with any Data Enthusiasts<br>📞  + 91-7978104387 | Whatsapp | Odisha . India<br>📩   udiptaanupam@gmail.com <br><br><br>#powerbi #dataanalysis #msexcel #sql<br>#python #statistics #chatgpt #ai 
+ Glad to connect with any Data Enthusiasts<br>📞  + 91-7978104387 | Whatsapp | Odisha . India<br>📩   udiptaanupam@gmail.com <br><br>**DATA IS A TOOL FOR ENHANCING INTUITION**<br><br><br>#powerbi #dataanalysis #msexcel #sql<br>#python #statistics #chatgpt #ai 
 
 
 ## 🌐 Socials:
