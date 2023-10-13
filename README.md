@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Udipta Anupam</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=18&duration=4000&pause=500&color=F7AA94&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I+am+Udipta+Anupam;Data+Analyst)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🧑‍💻 Data Analyst<br>🎯 Goal-oriented<br>🤓 Optimistic<br>🧫 Lazy but Smart<br><br><br>#powerbi #dataanalysis #msexcel #sql<br>#python #statistics #chatgpt #ai 
+🧑‍💻  [**Udipta Anupam**](www.linkedin.com/in/udipta-anupam)<br>🥇  B.Sc in **Information Technology & Management** | Utkal University 2016-19<br>🎯  Goal-oriented<br>🤓  Optimistic<br>🧫  Lazy but Smart<br>🤝 
+ Glad to connect with any Data Enthusiasts<br>📞  + 91-7978104387 | Whatsapp | Odisha . India<br>📩   udiptaanupam@gmail.com <br><br><br>#powerbi #dataanalysis #msexcel #sql<br>#python #statistics #chatgpt #ai 
 
 
 ## 🌐 Socials:
@@ -24,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=udipta14&icon=1&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
