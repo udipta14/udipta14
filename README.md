@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=F7AA94&lines=Hi+%F0%9F%91%8B+It's+Anupam;I'm+a+Data+Analyst)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🧑‍💻  [**Udipta Anupam**](www.linkedin.com/in/udipta-anupam)<br>🥇  B.Sc in **Information Technology & Management** | Utkal University 2016-19<img align="right" width=200px height=200px alt="side_sticker" src="https://media1.giphy.com/media/Y9jnMrKtoulD3ugkJs/giphy.gif?cid=ecf05e478bixwex3msowdz6dsr57n7b0w32oj2wjtxu0vw99&ep=v1_gifs_related&rid=giphy.gif&ct=s" /><br>🎯  Goal-oriented<br>🤓  Optimistic<br>🤝 
+🧑‍💻  [**Udipta Anupam**](www.linkedin.com/in/udipta-anupam)<img align="right" width=200px height=200px alt="side_sticker" src="https://media1.giphy.com/media/Y9jnMrKtoulD3ugkJs/giphy.gif?cid=ecf05e478bixwex3msowdz6dsr57n7b0w32oj2wjtxu0vw99&ep=v1_gifs_related&rid=giphy.gif&ct=s" /><br>🥇  B.Sc in **Information Technology & Management** | Utkal University 2016-19<br>🎯  Goal-oriented<br>🤓  Optimistic<br>🤝 
  Glad to connect with any Data Enthusiasts<br>📞  + 91-7978104387 | Whatsapp | Odisha . India<br>📩   udiptaanupam@gmail.com <br>🧫  **Fun Fact ->** Astutely Easygoing<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
  
  
- <ul align="center">***DATA IS A TOOL FOR ENHANCING INTUITION***</ul>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ ***<ul align="center">DATA IS A TOOL FOR ENHANCING INTUITION</ul>***<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <br><br>#powerbi #dataanalysis #msexcel #sql<br>#python #statistics #chatgpt #ai 
 
 
