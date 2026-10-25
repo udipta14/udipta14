@@ -13,8 +13,9 @@ Growth analytics and marketing technology professional with **4+ years of experi
 
 ## Featured projects
 
-- [GrowthPulse — Attribution & Forecasting Lab](https://github.com/udipta14/growthpulse-attribution-lab) — an interactive analytics dashboard with attribution, cohort, forecast, and data-quality workflows.
-- [MarTech Ops Toolkit](https://github.com/udipta14/martech-ops-toolkit) — a campaign-tag QA tool and review-only n8n workflow.
+- [OpsSignal — Early Warning & Operations Hub](https://github.com/udipta14/opssignal-early-warning-hub) ([live dashboard](https://udipta14.github.io/opssignal-early-warning-hub/)) — an interactive synthetic operations workflow for signal triage and human review.
+- [GrowthPulse — Attribution & Forecasting Lab](https://github.com/udipta14/growthpulse-attribution-lab) — an interactive growth analytics dashboard with attribution, cohorts, forecasting, and data quality.
+- [MarTech Ops Toolkit](https://github.com/udipta14/martech-ops-toolkit) — campaign-tag QA and a review-only n8n workflow.
 
 ## Core tools
 
